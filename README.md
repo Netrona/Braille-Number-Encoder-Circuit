@@ -37,7 +37,7 @@ The project has six outputs from P_0 to P_5, but P_2 and P_3 are not in use. The
 
 <img width="432" alt="Screen Shot 2021-07-11 at 3 20 24 AM" src="https://user-images.githubusercontent.com/47288950/125186210-45f2ab00-e229-11eb-953d-d68fee792cf1.png">
 
-where i_3 is the most significant bit of the input, and i_0 is the least significant bit of the input. **We test the logic in file Logic_Testing.pdf 
+where i_3 is the most significant bit of the input, and i_0 is the least significant bit of the input. **We test the logic in file Logic_Testing.pdf**
 
 ## Circuit Diagram:
 
